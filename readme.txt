@@ -1,5 +1,1 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files. Yes, I like it. How about you? Can you tell me please?
-Let's go!
+No newline at end of file. It is free software.
